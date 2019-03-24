@@ -9,12 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Mike Robinsons awful thoughts</h1>
-    <p>There is no content</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <p>In the future you will be full o the things I annoy friends and coworkers with</p>
   </Layout>
 )
 
